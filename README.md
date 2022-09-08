@@ -11,11 +11,23 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 - Naive Random Oversampling
 ![This is an image](https://github.com/SubF/Credit_Risk_Analysis/blob/main/Images/Naive%20Random%20Oversampling.png)
 
+1. The Balanced Accuracy Score of 65.7%
+2. The High Risk Loans have a precision score of 1% and a recall score of 71%
+3. The Low Risk Loans have a precision score of 100% and a recall score of 60%
+
 - SMOTE Oversampling
 ![This is an image](https://github.com/SubF/Credit_Risk_Analysis/blob/main/Images/SMOTE%20Oversampling.png)
 
+1. The Balanced Accuracy Score of 66.2%
+2. The High Risk Loans have a precision score of 1% and a recall score of 63%
+3. The Low Risk Loans have a precision score of 100% and a recall score of 69%
+
 - Undersampling
 ![This is an image](https://github.com/SubF/Credit_Risk_Analysis/blob/main/Images/Undersampling.png)
+
+1. The Balanced Accuracy Score of 66.2%
+2. The High Risk Loans have a precision score of 1% and a recall score of 69%
+3. The Low Risk Loans have a precision score of 100% and a recall score of 40%
 
 -Combination (Over and Under) Sampling
 ![This is an image]()
