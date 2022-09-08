@@ -1,10 +1,10 @@
 # Credit_Risk_Analysis
 
-##Overview of the loan prediction risk analysis:
+## Overview of the loan prediction risk analysis:
 
 In this analysis the LendingClub, a lending service company, will have it's data reviewed through several machine learning algorithms. Each algorithm will then be evaluated to determine which is recommended to be used to predict credit risk. 
 
-##Results:
+## Results:
 
 There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
 
@@ -27,7 +27,7 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 ![This is an image]()
 
 
-##Summary:
+## Summary:
 
 There is a summary of the results (2 pt)
 There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
