@@ -50,5 +50,19 @@ In this analysis the LendingClub, a lending service company, will have it's data
 
 ## Summary:
 
-There is a summary of the results (2 pt)
-There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
+### Recommendation
+
+- The Easy Ensemble AdaBooster Classifier is recommended for this Credit Risk Analysis with the highest Balanced Accuracy of 93.2%. This algorithm also had high precision and recall scores compared to the other algorithms. It will also be difficult to improve the high risk loan precision without more data for high risk loans.
+
+### Balanced Accuracy Ranking
+
+1. Easy Ensemble AdaBoost Classifier - 93.2%
+2. Balanced Random Forest Classifier - 78.9%
+3. Combination (Over and Under) Sampling - 68.8%
+4. Naive Random Oversampling - 65.7%
+5. Undersampling - 66.2%
+5. Smote Oversampling - 66.2%
+
+### Improvements
+
+- A larger number of high risk loans in comparison to low risk in the sample could yield more accurate results since there was less than 1% of the data as high risk. In the orignal data there were 68470 low risk loans and 347 high risk loans.
